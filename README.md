@@ -1,5 +1,6 @@
 # Filter-Class
 Filtering DF using SCALA &amp; Apache Spark
 
-- Filtering By date
-- Filtering by Int
+- filtering_by_string
+- filtering_by_int
+- filter_by_name
